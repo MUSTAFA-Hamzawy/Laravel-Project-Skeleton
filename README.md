@@ -1,1 +1,1 @@
-# Laravel-Project-Skeleton
+# php artisan db:seed --class=UserSeeder
